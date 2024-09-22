@@ -1,0 +1,11 @@
+.icone-hover {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  padding: 8px;
+  transition: background-color 0.3s ease-in-out;
+}
+.icone-hover:hover {
+  background-color: #1e1e1e;
+  color: #616161;
+}
